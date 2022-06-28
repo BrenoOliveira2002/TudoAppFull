@@ -1,0 +1,10 @@
+[0;1;32m●[0m mongodb.service - LSB: An object/document-oriented database
+     Loaded: loaded (/etc/init.d/mongodb; generated)
+     Active: [0;1;32mactive (exited)[0m since Tue 2022-06-28 10:09:36 -03; 35min ago
+       Docs: man:systemd-sysv-generator(8)
+    Process: 1695 ExecStart=/etc/init.d/mongodb start (code=exited, status=0/SUCCESS)
+
+jun 28 10:09:35 mandalorian systemd[1]: Starting LSB: An object/document-oriented database...
+jun 28 10:09:35 mandalorian mongodb[1695]:  * Starting database mongodb
+jun 28 10:09:36 mandalorian mongodb[1695]:    ...done.
+jun 28 10:09:36 mandalorian systemd[1]: Started LSB: An object/document-oriented database.
